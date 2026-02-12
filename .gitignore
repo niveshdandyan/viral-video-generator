@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.mp4
+*.mp3
+*.wav
+*.onnx
+*.onnx.json
+.env
+node_modules/
+assets/video-clips/
+assets/audio/
+assets/normalized/
+output/
+outputs/
+tmp/
