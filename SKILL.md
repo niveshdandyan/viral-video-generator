@@ -1,7 +1,6 @@
 ---
 name: viral-video-generator
 description: "End-to-end AI video production pipeline. Generate complete vertical videos (Instagram Reels, TikTok, YouTube Shorts) from a text prompt. Combines AI video clip generation (Google Veo 3.1), neural text-to-speech (Piper TTS), synthesized background music, sound effects, and ffmpeg assembly. Use when the user asks to create a video, make a reel, produce a short, generate video content, make a meme video, create a promo video, or build any short-form vertical video."
-allowed-tools: Bash, Read, Write, Task, Glob, Grep, WebFetch
 ---
 
 # Viral Video Generator
